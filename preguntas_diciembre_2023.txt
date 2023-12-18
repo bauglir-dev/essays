@@ -1,0 +1,30 @@
+De las actividades que más me aportarán desde una persepectiva intelectual,
+¿cuáles deseo desempeñar?
+
+- Quiero leer:
+    - Historia de Asimvov
+    - La Biblia
+    - La filosofía de Platón y Aristóteles
+    - La filosofía de Gutavo Bueno
+    - La Historia de España, Colombia y Portugal
+    - El Quijote de la Mancha, 100 años de soledad, etc.
+    - Programa de Lectura para toda la vida, un libro semanal.
+
+- Quiero hacer ms proyectos de software:
+    - Sistema de finanzas personales
+    - sistema de pomodoro universal
+    - Videojuegos de simulación de rescate animal.
+    - Blog de temas técnicos
+
+- Quiero aprender matemáticas:
+    - Book of Proof
+    - Geometrìa
+    - Algebra, trigonometrìa y geometría analítica.
+
+- Quiero hacer ejercicio
+
+- Quiero aprender los temas más importantes para mi trabajo:
+    - Python: oop, algoritmos, estructuras de datos, pyspark.
+    - AWS: CDK, localstack, cloud architecture, billing, Glue.
+    - Apache Airflow.
+    - Fundamentals of Data Engineering.
